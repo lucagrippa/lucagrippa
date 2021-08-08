@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gripal.grippal)](https://github.com/grippal) [![GitHub followers](https://img.shields.io/github/followers/grippal.svg?style=social&label=Follow)](https://github.com/grippal?tab=followers)
 
-<h3 align="left">A recent Computer Engineering grad from the University of Delaware looking to pursue a career in Software Engineering.</h3>
-<br>
-<h3 align="left">Outside of tech, I love snowboarding, listening to music, and cooking. If you are around NYC, drop an email and let's catch-up over coffee!</h3>
+<p align="left">A recent Computer Engineering grad from the University of Delaware looking to pursue a career in Software Engineering.</p>
+
+<p align="left">Outside of tech, I love snowboarding, listening to music, and cooking. If you are around NYC, drop an email and let's catch-up over coffee!</p>
 
 <br> 
 
@@ -37,20 +37,19 @@ Here are some ideas to get you started:
 
 <h1>💻 Currently working on: </h1>
 
-### I’m currently working on [a sorting algorithm visualizer!](https://github.com/grippal/sorting-visualizer.git)
+I’m currently working on [a sorting algorithm visualizer!](https://github.com/grippal/sorting-visualizer.git)
 
-<br>
 
-### I started this project as a fun way to deepen my understanding of common sorting algorithms.
 
-<br>
+I started this project as a fun way to deepen my understanding of common sorting algorithms.
 
-### Check out the GitHub repository!
+
+Check out the GitHub repository!
 
 <br>
 
 <div>
-  <p>
+  <p align="center">
     <a href="https://github.com/grippal/sorting-visualizer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=grippal&repo=sorting-visualizer&show_owner=True" alt="GitHub Stats" />
     </a>
