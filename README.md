@@ -1,7 +1,7 @@
 
 
 <!--
-**grippal/grippal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucagrippa/lucagrippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi 👋, I'm Luke Grippa</h1>
+<h1 align="left">Hi 👋, I'm Luca Grippa</h1>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gripal.grippal)](https://github.com/grippal) [![GitHub followers](https://img.shields.io/github/followers/grippal.svg?style=social&label=Follow)](https://github.com/grippal?tab=followers)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://lukegrippa.com](https://lukegrippa.com)
 
-- 📫 How to reach me **me@lukegrippa.com**
+- 📫 How to reach me **@Luke_Grippa** on Twitter
 
 - 📄 Know about my experiences [https://lukegrippa.com/resume.html](https://lukegrippa.com/resume.html)
 
@@ -49,8 +49,8 @@ Check out the GitHub repository!
 
 <div>
   <p align="center">
-    <a href="https://github.com/grippal/sorting-visualizer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=grippal&repo=sorting-visualizer&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/lucagrippa/sorting-visualizer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucagrippa&repo=sorting-visualizer&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -67,8 +67,8 @@ Check out the GitHub repository!
   
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=grippal" alt="GitHub Stats" /> <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grippal&show_icons=true&locale=en" alt="grippal" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucagrippa" alt="GitHub Stats" /> <br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucagrippa&show_icons=true&locale=en" alt="lucagrippa" />
   </p>
 </div>
 <br>
