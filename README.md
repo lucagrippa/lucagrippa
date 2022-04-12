@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi 👋, I'm Luca Grippa</h1>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gripal.grippal)](https://github.com/grippal) [![GitHub followers](https://img.shields.io/github/followers/grippal.svg?style=social&label=Follow)](https://github.com/grippal?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lucagrippa.lucagrippa)](https://github.com/lucagrippa) [![GitHub followers](https://img.shields.io/github/followers/lucagrippa.svg?style=social&label=Follow)](https://github.com/lucagrippa?tab=followers)
 
 <p align="left">A recent Computer Engineering grad from the University of Delaware looking to pursue a career in Software Engineering.</p>
 
